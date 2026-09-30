@@ -35,3 +35,4 @@ env/
 # 其他
 *.tmp
 *.temp
+external/GNM-PT/
